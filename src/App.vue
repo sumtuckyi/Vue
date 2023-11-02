@@ -86,6 +86,9 @@ function removeTodo(todo) {
 </script>
 
 <style>
+li {
+  list-style-type: none;
+}
 #app {
   font-family: Fira code Light, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
